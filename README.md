@@ -1,5 +1,6 @@
-### Hi there 👋
-EARTH
+### Hi there 👋 I try my BEST!!!
+###
+### dasdasda
 <!--
 **KirttiphoomEarth/KirttiphoomEarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
