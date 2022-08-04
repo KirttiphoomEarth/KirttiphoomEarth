@@ -3,10 +3,13 @@
 ### :woman_technologist: About Me :
 FROM NOW NOTING. ! <br/>
 
-MY ATTENTION NOW. : 
+MY ATTENTION NOW. -> 
 - Image processing.
 - OpenCV.
 - OpenMP.
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <!--
 **KirttiphoomEarth/KirttiphoomEarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
