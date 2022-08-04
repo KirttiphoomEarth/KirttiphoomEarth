@@ -3,10 +3,6 @@
 ### About Me :
 FROM NOW NOTING. ! <br/>
 
-### MY ATTENTION NOW :
-- 
-- 
-- 
 
 ### Languages and Tools :
 <div>
