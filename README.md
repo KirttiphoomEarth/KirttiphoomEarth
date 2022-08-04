@@ -2,10 +2,10 @@
 ---
 ### :woman_technologist: About Me :
 FROM NOW NOTING. ! <br/>
-MY ATTENTION NOW. :
--:Image processing.
--:OpenCV.
--:OpenMP.
+MY ATTENTION NOW. : <br/>
+- :Image processing.
+- :OpenCV.
+- :OpenMP.
 <!--
 **KirttiphoomEarth/KirttiphoomEarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
