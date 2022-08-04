@@ -4,9 +4,9 @@
 FROM NOW NOTING. ! <br/>
 
 MY ATTENTION NOW. -> 
-- Image processing.
-- OpenCV.
-- OpenMP.
+- 
+- 
+- 
 
 ### Languages and Tools :
 <div>
