@@ -3,7 +3,7 @@
 ### About Me :
 FROM NOW NOTING. ! <br/>
 
-### MY ATTENTION NOW. -> 
+### MY ATTENTION NOW :
 - 
 - 
 - 
