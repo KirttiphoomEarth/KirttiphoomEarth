@@ -7,11 +7,13 @@ MY ATTENTION NOW. ->
 - Image processing.
 - OpenCV.
 - OpenMP.
----
+
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 ### My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirttiphoomEarth&show_icons=true&theme=tokyonight) 
