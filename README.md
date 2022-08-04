@@ -2,6 +2,7 @@
 ---
 ### :woman_technologist: About Me :
 FROM NOW NOTING. ! <br/>
+
 MY ATTENTION NOW. : 
 - Image processing.
 - OpenCV.
