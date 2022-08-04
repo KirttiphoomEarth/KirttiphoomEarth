@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ---
-### :woman_technologist: About Me :
+### About Me :
 FROM NOW NOTING. ! <br/>
 
 MY ATTENTION NOW. -> 
@@ -10,7 +10,7 @@ MY ATTENTION NOW. ->
 ---
 
 ### My Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirttiphoomEarth)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirttiphoomEarth&show_icons=true&theme=radical)
 <!--
 **KirttiphoomEarth/KirttiphoomEarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
