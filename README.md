@@ -15,7 +15,7 @@ FROM NOW NOTING. ! <br/>
 
 ### My Stats :
 <div>
- <a href="htttps://beacons.ai/KirttiphooomEarth">
+ <a href="https://github.com/KirttiphoomEarth">
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KirttiphoomEarth&show_icons=true&theme=tokyonight"/>
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirttiphoomEarth&layout=compact&theme=tokyonight"/>
 </div>
