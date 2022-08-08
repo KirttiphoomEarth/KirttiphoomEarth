@@ -19,12 +19,12 @@ FROM NOW NOTING. ! <br/>
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KirttiphoomEarth&show_icons=true&theme=tokyonight"/>
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirttiphoomEarth&layout=compact&theme=tokyonight"/>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirttiphoomEarth&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirttiphoomEarth&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **KirttiphoomEarth/KirttiphoomEarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirttiphoomEarth&show_icons=true&theme=tokyonight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirttiphoomEarth&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
