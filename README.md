@@ -17,7 +17,7 @@ FROM NOW NOTING. ! <br/>
 <div>
  <a href="htttps://beacons.ai/KirttiphooomEarth">
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KirttiphoomEarth&show_icons=true&theme=tokyonight"/>
-   <img height="180cm" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=KirttiphoomEarth&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats"/>
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirttiphoomEarth&layout=compact&theme=tokyonight"/>
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirttiphoomEarth&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirttiphoomEarth&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
