@@ -2,9 +2,9 @@
 I'm KIRTTIPHOOM !
 ---
 ### About Me :
-I'm student, studying computer engineering KMITL. <br/>
+Computer engineering KMITL. <br/>
 Now I interested and studying Computer vision and Deep learning. <br/>
-I studying a OpenCV, Pytorch and Tensorflow.
+OpenCV, Pytorch and Tensorflow.
  
 
 ### Languages and Tools :
