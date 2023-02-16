@@ -4,7 +4,7 @@ I'm KIRTTIPHOOM !
 ### About Me :
 Computer engineering KMITL. <br/>
 Now I interested and studying Computer vision and Deep learning. <br/>
-OpenCV, Pytorch and Tensorflow.
+Embedded system, FPGA, Digital design
  
 
 ### Languages and Tools :
