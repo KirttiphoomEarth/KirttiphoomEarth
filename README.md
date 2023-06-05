@@ -3,10 +3,7 @@ I'm KIRTTIPHOOM !
 ---
 ### About Me :
 Computer engineering KMITL. <br/>
-Now I interested and studying Computer vision and Deep learning. <br/>
-Embedded system, FPGA, Digital design
  
-
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
